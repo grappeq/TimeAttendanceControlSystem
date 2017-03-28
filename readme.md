@@ -1,4 +1,4 @@
-#TimeAttendanceControlSystem
+# TimeAttendanceControlSystem
 This is a simple time attendance control system backend written in PHP using [Laravel](https://laravel.com/) 5.2. framework. It was one of several programs that I wrote for my bachelor's thesis. I hope somebody will someday find this useful. As it was a part of a specific larger solution, it requires some modifications before using.
 
 ## Getting Started
